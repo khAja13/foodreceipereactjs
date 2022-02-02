@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/foodreceipereactjs/static/css/main.d8c1a684.css",
+    "main.js": "/foodreceipereactjs/static/js/main.d22d4fb1.js",
+    "index.html": "/foodreceipereactjs/index.html",
+    "main.d8c1a684.css.map": "/foodreceipereactjs/static/css/main.d8c1a684.css.map",
+    "main.d22d4fb1.js.map": "/foodreceipereactjs/static/js/main.d22d4fb1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8c1a684.css",
+    "static/js/main.d22d4fb1.js"
+  ]
+}
